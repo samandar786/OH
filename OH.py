@@ -177,18 +177,18 @@ EXTRA ='\x1b[38;5;208m'
 
 logo="""\033[1;94m
 ______________________________________________                                          
-HAROON KHAN
-HAROON KHAN
-HAROON KHAN
-HAROON KHAN😜😝
+R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌
+R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌
+R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌
+R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌😜😝
 ==============================================
 \033[1;32m----------------------------------------------
- Owner        :   HAROON KHAN
- AUTHOR       :   HAROON KHAN
- FACEBOOK     :   HAROON KHAN
- GITHUB       :   HAROON KHAN
- WHATSAPP     :   0745621792
- TOOL         :   Free
+ Owner        :   R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌
+ AUTHOR       :   R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌
+ FACEBOOK     :  R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌
+ GITHUB       :   R͌a͌y͌e͌e͌s͌ A͌l͌i͌ J͌a͌w͌z͌i͌j͌a͌n͌e͌
+ WHATSAPP     :   +4591937471
+ TOOL         :   Free00966539244277
  VIRSION      :    2.9
 \033[1;37m----------------------------------------------"""
 def linex():
@@ -416,7 +416,7 @@ def bd():
 def afg():
                 user=[]
                 clear()
-                print('\033[1;31m CODE EXAMPLE : 9378,9377,9370')
+                print('\033[1;31m CODE EXAMPLE : 078,077,070')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;31m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
